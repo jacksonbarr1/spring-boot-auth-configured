@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.core.exception;
+package com.example.backlogapi.core.exception;
 
 public class InvalidEmailException extends RuntimeException {
     public InvalidEmailException() {

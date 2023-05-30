@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.core;
+package com.example.backlogapi.core;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;

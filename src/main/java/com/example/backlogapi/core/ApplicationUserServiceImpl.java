@@ -1,8 +1,8 @@
-package com.example.springbootauthconfigured.core;
+package com.example.backlogapi.core;
 
-import com.example.springbootauthconfigured.core.exception.EmailTakenException;
-import com.example.springbootauthconfigured.core.exception.InvalidEmailException;
-import com.example.springbootauthconfigured.core.validator.EmailValidator;
+import com.example.backlogapi.core.exception.EmailTakenException;
+import com.example.backlogapi.core.exception.InvalidEmailException;
+import com.example.backlogapi.core.validator.EmailValidator;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

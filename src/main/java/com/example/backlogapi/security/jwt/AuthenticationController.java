@@ -1,13 +1,13 @@
-package com.example.springbootauthconfigured.security.jwt;
+package com.example.backlogapi.security.jwt;
 
-import com.example.springbootauthconfigured.core.Role;
+import com.example.backlogapi.core.Role;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.*;
 
-import com.example.springbootauthconfigured.core.ApplicationUser;
+import com.example.backlogapi.core.ApplicationUser;
 
 @RestController
 @AllArgsConstructor

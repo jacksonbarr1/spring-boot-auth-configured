@@ -1,7 +1,7 @@
-package com.example.springbootauthconfigured.core.configuration;
+package com.example.backlogapi.core.configuration;
 
 
-import com.example.springbootauthconfigured.security.jwt.JwtRequestFilter;
+import com.example.backlogapi.security.jwt.JwtRequestFilter;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

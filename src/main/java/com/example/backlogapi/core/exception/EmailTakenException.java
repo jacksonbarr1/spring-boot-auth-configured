@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.core.exception;
+package com.example.backlogapi.core.exception;
 
 public class EmailTakenException extends RuntimeException {
     public EmailTakenException() {

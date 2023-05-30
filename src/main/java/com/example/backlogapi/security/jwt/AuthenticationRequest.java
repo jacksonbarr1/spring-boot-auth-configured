@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.security.jwt;
+package com.example.backlogapi.security.jwt;
 
 import java.io.Serializable;
 

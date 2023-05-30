@@ -1,7 +1,7 @@
-package com.example.springbootauthconfigured.security.jwt;
+package com.example.backlogapi.security.jwt;
 
-import com.example.springbootauthconfigured.core.ApplicationUser;
-import com.example.springbootauthconfigured.core.ApplicationUserRepository;
+import com.example.backlogapi.core.ApplicationUser;
+import com.example.backlogapi.core.ApplicationUserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.core.userdetails.UserDetails;

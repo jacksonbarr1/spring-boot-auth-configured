@@ -1,10 +1,10 @@
-package com.example.springbootauthconfigured;
+package com.example.backlogapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootAuthConfiguredApplicationTests {
+class SpringBootGameLogAPITests {
 
     @Test
     void contextLoads() {

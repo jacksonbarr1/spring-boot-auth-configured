@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.core;
+package com.example.backlogapi.core;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.core.exception;
+package com.example.backlogapi.core.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

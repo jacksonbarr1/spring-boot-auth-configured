@@ -1,6 +1,6 @@
-package com.example.springbootauthconfigured.security.jwt;
+package com.example.backlogapi.security.jwt;
 
-import com.example.springbootauthconfigured.core.Role;
+import com.example.backlogapi.core.Role;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.io.Decoders;

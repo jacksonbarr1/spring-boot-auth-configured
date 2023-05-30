@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.core;
+package com.example.backlogapi.core;
 
 import java.util.UUID;
 

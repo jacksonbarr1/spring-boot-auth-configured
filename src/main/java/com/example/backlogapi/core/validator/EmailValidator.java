@@ -1,4 +1,4 @@
-package com.example.springbootauthconfigured.core.validator;
+package com.example.backlogapi.core.validator;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
